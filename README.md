@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruvice
 - 👀 I’m interested in code. I mean why else am I here?
-- 🌱 I’m currently learning backend stuff, building things on Twitch (Check out my extension on www.twitch.com/ruvice/)
+- 🌱 I’m currently learning backend stuff, building things on Twitch (Check out my extension on www.twitch.tv/ruvice/)
 - 💞️ I’m looking to collaborate on Dota 2 stuff!
 
 <!---
