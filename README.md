@@ -7,7 +7,7 @@ Check out what I've built!
 
 Dota 2 Backseater: https://dashboard.twitch.tv/extensions/ue0dadovd9v8ydbb90k3jy6097jtml-0.0.3
 
-My Maple: https://dashboard.twitch.tv/extensions/vgxcnnkl2o4t2k8fbdrqszhbphh9pc-0.0.1
+My Maple: https://dashboard.twitch.tv/extensions/vgxcnnkl2o4t2k8fbdrqszhbphh9pc-0.0.3
 <!---
 ruvice/ruvice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
